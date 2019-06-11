@@ -371,6 +371,7 @@
             "Remove EXIF",
             "Extract EXIF",
             "Split Colour Channels",
+            "View Bit Plane",
             "Rotate Image",
             "Resize Image",
             "Blur Image",
